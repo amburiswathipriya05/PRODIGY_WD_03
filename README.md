@@ -1,20 +1,20 @@
+# Personal Portfolio Website
 
-# Tic-Tac-Toe Web Application
-
-## Task Overview
-Build a tic-tac-toe web application using HTML, CSS, and JavaScript.
+## Description
+This is a personal portfolio website created as part of Task-04. It showcases skills, projects, and accomplishments as a web developer. The website includes a captivating homepage, a professional photo, a skills summary, and a detailed "About Me" section with background, education, and professional experience.
 
 ## Features
-- Two-player tic-tac-toe game
-- Detects win and draw conditions
-- Reset functionality to play again
+- Home page with an attractive layout
+- "About Me" section
+- Projects showcase
+- Contact form
+- Responsive design
 
 ## Technologies Used
-- HTML for structure
-- CSS for styling
-- JavaScript for interactivity and game logic
+- HTML
+- CSS
+- JavaScript
 
-## How to Use
-1. Clone the repository.
-2. Open `index.html` in a browser.
-3. Click on the grid to place X or O and enjoy the game.
+## How to Run
+1. Clone the repository or download the ZIP file.
+2. Open `index.html` in your web browser.
